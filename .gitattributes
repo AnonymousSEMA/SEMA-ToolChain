@@ -1,0 +1,9 @@
+*.py linguist-detectable=true
+*.sh linguist-detectable=true
+*.html linguist-detectable=false
+*.js linguist-detectable=false
+*.gs linguist-detectable=false
+*.json linguist-detectable=false
+*.gv linguist-detectable=false
+
+
