@@ -25,3 +25,6 @@
 [submodule "src/submodules/malwexp"]
 	path = src/submodules/malwexp
 	url = https://github.com/csvl/malwexp.git
+[submodule "src/submodules/unipacker"]
+	path = src/submodules/unipacker
+	url = https://github.com/ElNiak/unipacker.git
