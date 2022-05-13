@@ -16,7 +16,7 @@ Tested on Ubuntu 18 LTS.
 
 ```bash
 # WARNING: slow since one submodule contains preconfigure VMs
-git clone --recurse-submodules https://github.com/AnonymousSEMA/SEMA-ToolChain.git;
+git clone --recurse-submodules https://github.com/csvl/SEMA-ToolChain.git;
 # Full installation (ubuntu)
 cd SEMA-ToolChain/; source install.sh;
 ```
