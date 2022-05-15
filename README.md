@@ -12,8 +12,6 @@
     2. [ `ToolChainClassifier`](#tcc)
     3. [ `ToolChainFL`](#tcfl)
 
-4. [ Credentials ](#credit)
-
 :page_with_curl: Architecture
 ====
 <a name="arch"></a>
@@ -400,18 +398,3 @@ To switch from one screen window to another Hit `Ctrl + A` and then `Ctrl + A` i
 
 To list open screen windows Hit `Ctrl + A` and then `W` in immediate succession
 
-:page_with_curl: Credentials
-====
-<a name="credit"></a>
-
-Main authors of the projects:
-
-* **Charles-Henry Bertrand Van Ouytsel** (UCLouvain)
-
-* **Christophe Crochet** (UCLouvain)
-
-* **Khanh Huu The Dam** (UCLouvain)
-
-Under the supervision and with the support of **Fabrizio Biondi** (Avast) 
-
-Under the supervision and with the support of our professor **Axel Legay** (UCLouvain) (:heart:)
